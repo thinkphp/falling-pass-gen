@@ -38,7 +38,7 @@ brew install ncurses
 ## Building the Project
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/falling-pass-gen.git
+git clone https://github.com/thinkphp/falling-pass-gen.git
 cd falling-pass-gen
 ```
 
