@@ -18,7 +18,7 @@ Perfect for those who want to add some style to their command-line tools or lear
 
 Here's the complete running instructions for the repository:
 
-```markdown
+
 # Running Instructions
 
 ## Requirements
